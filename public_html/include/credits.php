@@ -1,0 +1,1 @@
+<div class="credits"><span style="font-size:10px;" ><strong>Powered by:</strong></span> <a target="_blank" href="http://www.tenthmatrix.co.uk/" title="Web site designed by Tenthmatrix"><img src="images/tenthmatrix.png" style=" height:24px; vertical-align:middle;"></a></div>
