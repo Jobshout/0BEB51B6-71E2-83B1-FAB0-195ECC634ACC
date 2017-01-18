@@ -5,7 +5,7 @@
 
 define("SITE_WS_PATH",'http://'.$_SERVER['HTTP_HOST'].'/jobshout/');
 define("SERVER_PATH",'C:\inetpub\wwwroot');
-define("WEBMASTER_EMAIL",'nehak189@gmail.com');
+define("WEBMASTER_EMAIL",'noreply@tenthmatrix.co.uk');
 define("WEBMASTER_NAME",'Webmaster');
 define("WEBMASTER_ADMIN_EMAIL",'jobshout421@gmail.com');
 ?>
